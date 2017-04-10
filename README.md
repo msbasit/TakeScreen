@@ -9,7 +9,7 @@ When launch it sliently sits in the taskbar and attaches itself to PrtSc key. Wh
 - Arrow Line
 - Text (Not yet implemented)
 
-Tool fully supports sudo and all the drawing is anti-alised. Also TakeScreen is optimized for multiscreens including 4k resolution and the memory footprint is neglegible.
+Tool fully supports undo and all the drawing is anti-alised. Also TakeScreen is optimized for multiscreens including 4k resolution and the memory footprint is neglegible.
 
 Feature updates will include:
 - Uploading screenshots to local/remote server
